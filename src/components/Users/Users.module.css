@@ -1,0 +1,39 @@
+.user {
+    display: flex;
+    align-items: center;
+}
+
+.info{
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 65px;
+}
+
+.name{
+    margin-right: 570px;
+}
+
+.name_user{
+    margin-bottom: 15px;
+}
+
+.avatar{
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.avatar_img{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+    
+}
+
+.selectedPage{
+    font-weight: bold;
+}

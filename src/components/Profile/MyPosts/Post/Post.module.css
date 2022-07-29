@@ -1,0 +1,18 @@
+.post{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+}
+
+.avatar_img{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+    
+}

@@ -1,0 +1,15 @@
+.header{
+  grid-area: header;
+  background-color: rgb(151, 179, 184);
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 30px;
+}
+
+.logo{
+    width: 100px;
+}
+
+.loginBlock a {
+  color: black
+}
